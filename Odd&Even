@@ -1,0 +1,11 @@
+# this progam to find if entered numper is even or oaa
+
+# ask user to insert numper
+numper = int(input(("Enter your numper")))
+rem = numper%2
+if (rem == 0):
+    print("the numer is even")
+else:
+    print("Odd")
+
+input("press enter to exit")
