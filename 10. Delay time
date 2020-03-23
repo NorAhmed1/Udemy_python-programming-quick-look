@@ -1,0 +1,4 @@
+# time module
+
+import time
+print(time.ctime()) 
